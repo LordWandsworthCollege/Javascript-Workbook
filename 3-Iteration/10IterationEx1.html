@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Iteration Exercise</title>
+    <link rel="stylesheet" href="../LWC.css">
+</head>
+<body>
+<h1>Winga Task 1</h1>
+<div id="demo">Try it </div>
+<p>You are working for a payday lender. You have been asked to make a calculator for the
+    website.<br> The company charges an interest rate of 5% a day. Write a program which asks
+    amount the user wishes to borrow and the length of time they want to borrow it for . It
+    should then tell them the total number of days
+</p>
+
+<script>
+    const rate = 1.05;
+    const days = parseInt(prompt("How many days do you want to borrow money for ?"));
+    const amount = parseInt(prompt("and how much do you wish to borrow ?"));
+    let dayX = 0;
+    let repay =amount;
+    while(dayX<days){
+        console.log("Day "+dayX+" - "+repay);
+        repay = repay*rate;
+        dayX++;
+    }
+
+
+
+</script>
+<a href="09forTest.html"><img src="..\img\leftArrow.png" alt="" class="prv"></a>
+<a href="10IterationEx2.html"><img src="..\img\rightArrow.png" alt="" class="nxt"></a>
+
+</body>
+</html>

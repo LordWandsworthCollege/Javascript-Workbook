@@ -1,0 +1,32 @@
+2<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Introduction to Objects</title>
+    <link rel="stylesheet" href="../LWC.css">
+</head>
+<body>
+<h1>02ES6Objects</h1>
+<p>A new, simpler way of making objects called ES6 was introduced in JS. It makes creating
+    objects more like other languages</p>
+
+<img src="img/01objects.png" alt="">
+<script>
+    let dog = {
+        name:"Pongo",
+        legs:4,
+        says : function() {
+            return this.name + " says" + " Woof,Woof";
+        }
+    };
+    let lucky = object.create(dog);
+    lucky.name = "lucky";
+    lucky.says();
+    dog.says();
+
+</script>
+<a href="01ObjectsVariables.html"><img src="..\img\leftArrow.png" alt="" class="prv"></a>
+<a href="03Constructors.html"><img src="..\img\rightArrow.png" alt="" class="nxt"></a>
+<div id="demo">Try it </div>
+</body>
+</html>

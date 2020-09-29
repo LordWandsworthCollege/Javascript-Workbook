@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Iteration Exercise</title>
+    <link rel="stylesheet" href="../LWC.css">
+</head>
+<body>
+<h1>Winga Task 2</h1>
+<div id="demo">Try it </div>
+<p>The company wish to alter their interest rates. For customers borrowing under 500, the rate
+    will be 5%. For customers borrowing over, it will be 4%. Adjust your program to take this
+    into account
+</p>
+
+<script>
+    let rate = null;
+    const days = parseInt(prompt("How many days do you want to borrow money for ?"));
+    const amount = parseInt(prompt("and how much do you wish to borrow ?"));
+    amount>500 ? rate = 1.04:rate = 1.05;
+
+    let dayX = 0;
+    let repay =amount;
+    while(dayX<days){
+        console.log("Day "+dayX+" - "+repay);
+        repay = repay*rate;
+        dayX++;
+    }
+</script>
+<a href="10IterationEx1.html"><img src="..\img\leftArrow.png" alt="" class="prv"></a>
+<a href="10IterationEx3.html"><img src="..\img\rightArrow.png" alt="" class="nxt"></a>
+
+</body>
+</html>
