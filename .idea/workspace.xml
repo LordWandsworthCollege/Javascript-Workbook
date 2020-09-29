@@ -1,7 +1,77 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c5d18ca7-b9ad-431a-8b61-752e5a32d911" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0-Variables/01HelloWorld.html" beforeDir="false" afterPath="$PROJECT_DIR$/0-Variables/01HelloWorld.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0-Variables/02Variables.html" beforeDir="false" afterPath="$PROJECT_DIR$/0-Variables/02Variables.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0-Variables/03Constant.html" beforeDir="false" afterPath="$PROJECT_DIR$/0-Variables/03Constant.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0-Variables/04Maths.html" beforeDir="false" afterPath="$PROJECT_DIR$/0-Variables/04Maths.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0-Variables/05BasicsTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/0-Variables/05BasicsTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0-Variables/js/01HelloWorld.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0-Variables/js/02variables.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0-Variables/js/03constants.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0-Variables/js/04maths.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0-Variables/js/05BasicTest.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0-Variables/js/displayPic.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1iA5Br2yges4Yhzj4a1NSTvY54A" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c5d18ca7-b9ad-431a-8b61-752e5a32d911" name="Default Changelist" comment="" />
+      <created>1601337422459</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601337422459</updated>
+      <workItem from="1601337424097" duration="537000" />
+    </task>
+    <task id="LOCAL-00001" summary="0.1">
+      <created>1601337586345</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601337586345</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="0.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="0.1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="247" y="0" key="CommitChangelistDialog2" timestamp="1601337585905">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="247" y="0" key="CommitChangelistDialog2/0.0.1280.800@0.0.1280.800" timestamp="1601337585905" />
   </component>
 </project>
