@@ -3,17 +3,29 @@
   <component name="ChangeListManager">
     <list default="true" id="c5d18ca7-b9ad-431a-8b61-752e5a32d911" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0-Variables/01HelloWorld.html" beforeDir="false" afterPath="$PROJECT_DIR$/0-Variables/01HelloWorld.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0-Variables/02Variables.html" beforeDir="false" afterPath="$PROJECT_DIR$/0-Variables/02Variables.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0-Variables/03Constant.html" beforeDir="false" afterPath="$PROJECT_DIR$/0-Variables/03Constant.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0-Variables/04Maths.html" beforeDir="false" afterPath="$PROJECT_DIR$/0-Variables/04Maths.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0-Variables/05BasicsTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/0-Variables/05BasicsTest.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0-Variables/js/01HelloWorld.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0-Variables/js/02variables.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0-Variables/js/03constants.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0-Variables/js/04maths.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0-Variables/js/05BasicTest.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0-Variables/js/displayPic.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2-Selection/01If.html" beforeDir="false" afterPath="$PROJECT_DIR$/2-Selection/01If.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2-Selection/02Comparison.html" beforeDir="false" afterPath="$PROJECT_DIR$/2-Selection/02Comparison.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2-Selection/03logical.html" beforeDir="false" afterPath="$PROJECT_DIR$/2-Selection/03logical.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2-Selection/04onlyPositive.html" beforeDir="false" afterPath="$PROJECT_DIR$/2-Selection/04onlyPositive.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2-Selection/05HappyBirthday.html" beforeDir="false" afterPath="$PROJECT_DIR$/2-Selection/05HappyBirthday.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2-Selection/06PrimeAge.html" beforeDir="false" afterPath="$PROJECT_DIR$/2-Selection/06PrimeAge.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2-Selection/07SelectionTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/2-Selection/07SelectionTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2-Selection/img/04onlyPos.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2-Selection/img/05happy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2-Selection/img/06prime.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2-Selection/img/07SelectionTest.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2-Selection/js/01if.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2-Selection/js/02Comp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2-Selection/js/03Logical.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2-Selection/js/04OnlyPos.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2-Selection/js/05HB.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2-Selection/js/06Prime.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2-Selection/js/07SelTest.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3-Iteration/01incrementors.html" beforeDir="false" afterPath="$PROJECT_DIR$/3-Iteration/01incrementors.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3-Iteration/02while.html" beforeDir="false" afterPath="$PROJECT_DIR$/3-Iteration/02while.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3-Iteration/03WhileEx1.html" beforeDir="false" afterPath="$PROJECT_DIR$/3-Iteration/03WhileEx1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3-Iteration/04WhileEx2.html" beforeDir="false" afterPath="$PROJECT_DIR$/3-Iteration/04WhileEx2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3-Iteration/05whileTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/3-Iteration/05whileTest.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +61,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601337422459</updated>
-      <workItem from="1601337424097" duration="537000" />
+      <workItem from="1601337424097" duration="1212000" />
     </task>
     <task id="LOCAL-00001" summary="0.1">
       <created>1601337586345</created>
@@ -58,7 +70,21 @@
       <option name="project" value="LOCAL" />
       <updated>1601337586345</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="0.1">
+      <created>1601338273797</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1601338273798</updated>
+    </task>
+    <task id="LOCAL-00003" summary="0.1">
+      <created>1601338311396</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1601338311396</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -69,9 +95,17 @@
     <option name="LAST_COMMIT_MESSAGE" value="0.1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="247" y="0" key="CommitChangelistDialog2" timestamp="1601337585905">
+    <state x="378" y="154" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1601338539059">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="247" y="0" key="CommitChangelistDialog2/0.0.1280.800@0.0.1280.800" timestamp="1601337585905" />
+    <state x="378" y="154" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.800@0.0.1280.800" timestamp="1601338539059" />
+    <state x="247" y="0" key="CommitChangelistDialog2" timestamp="1601338311181">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="247" y="0" key="CommitChangelistDialog2/0.0.1280.800@0.0.1280.800" timestamp="1601338311181" />
+    <state x="240" y="140" key="Vcs.Push.Dialog.v2" timestamp="1601338315227">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="240" y="140" key="Vcs.Push.Dialog.v2/0.0.1280.800@0.0.1280.800" timestamp="1601338315227" />
   </component>
 </project>
