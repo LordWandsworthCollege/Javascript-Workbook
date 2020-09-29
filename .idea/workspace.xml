@@ -3,29 +3,56 @@
   <component name="ChangeListManager">
     <list default="true" id="c5d18ca7-b9ad-431a-8b61-752e5a32d911" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Selection/01If.html" beforeDir="false" afterPath="$PROJECT_DIR$/2-Selection/01If.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Selection/02Comparison.html" beforeDir="false" afterPath="$PROJECT_DIR$/2-Selection/02Comparison.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Selection/03logical.html" beforeDir="false" afterPath="$PROJECT_DIR$/2-Selection/03logical.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Selection/04onlyPositive.html" beforeDir="false" afterPath="$PROJECT_DIR$/2-Selection/04onlyPositive.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Selection/05HappyBirthday.html" beforeDir="false" afterPath="$PROJECT_DIR$/2-Selection/05HappyBirthday.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Selection/06PrimeAge.html" beforeDir="false" afterPath="$PROJECT_DIR$/2-Selection/06PrimeAge.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Selection/07SelectionTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/2-Selection/07SelectionTest.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Selection/img/04onlyPos.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Selection/img/05happy.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Selection/img/06prime.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Selection/img/07SelectionTest.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Selection/js/01if.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Selection/js/02Comp.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Selection/js/03Logical.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Selection/js/04OnlyPos.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Selection/js/05HB.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Selection/js/06Prime.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Selection/js/07SelTest.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3-Iteration/01incrementors.html" beforeDir="false" afterPath="$PROJECT_DIR$/3-Iteration/01incrementors.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3-Iteration/02while.html" beforeDir="false" afterPath="$PROJECT_DIR$/3-Iteration/02while.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3-Iteration/03WhileEx1.html" beforeDir="false" afterPath="$PROJECT_DIR$/3-Iteration/03WhileEx1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3-Iteration/04WhileEx2.html" beforeDir="false" afterPath="$PROJECT_DIR$/3-Iteration/04WhileEx2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3-Iteration/05whileTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/3-Iteration/05whileTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3-Iteration/js/01incrementor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3-Iteration/js/02while.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3-Iteration/js/03whileEx1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3-Iteration/js/04WhileEx2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3-Iteration/js/05whileTest.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3-Iteration/js/06for.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3-Iteration/js/07fx1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3-Iteration/js/08fx2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3-Iteration/js/09ft.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3-Iteration/js/10it1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3-Iteration/js/10it2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3-Iteration/js/10it3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4-Functions/01methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/4-Functions/01methods.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4-Functions/02parameters.html" beforeDir="false" afterPath="$PROJECT_DIR$/4-Functions/02parameters.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4-Functions/03globalLocal.html" beforeDir="false" afterPath="$PROJECT_DIR$/4-Functions/03globalLocal.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4-Functions/04functions.html" beforeDir="false" afterPath="$PROJECT_DIR$/4-Functions/04functions.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4-Functions/05functionsEx1.html" beforeDir="false" afterPath="$PROJECT_DIR$/4-Functions/05functionsEx1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4-Functions/06functionsEx2.html" beforeDir="false" afterPath="$PROJECT_DIR$/4-Functions/06functionsEx2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4-Functions/07FunctionsTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/4-Functions/07FunctionsTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4-Functions/08numberFunctions.html" beforeDir="false" afterPath="$PROJECT_DIR$/4-Functions/08numberFunctions.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4-Functions/09StringFunctions.html" beforeDir="false" afterPath="$PROJECT_DIR$/4-Functions/09StringFunctions.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4-Functions/10functionsTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/4-Functions/10functionsTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4-Functions/img/05FunctionsEx1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4-Functions/img/06functions2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4-Functions/img/07functionsTest.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4-Functions/img/10funTest.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4-Functions/js/01methods.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4-Functions/js/02para.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4-Functions/js/03glob.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4-Functions/js/04functions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4-Functions/js/05FunkEx1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4-Functions/js/06FunkEx2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4-Functions/js/07FunkTest.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4-Functions/js/08numFun.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4-Functions/js/09StrFun.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4-Functions/js/10funTest.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5-Lists/01Lists.html" beforeDir="false" afterPath="$PROJECT_DIR$/5-Lists/01Lists.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5-Lists/02listMethods1.html" beforeDir="false" afterPath="$PROJECT_DIR$/5-Lists/02listMethods1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5-Lists/02listMethods2.html" beforeDir="false" afterPath="$PROJECT_DIR$/5-Lists/02listMethods2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5-Lists/03ListsNLoops.html" beforeDir="false" afterPath="$PROJECT_DIR$/5-Lists/03ListsNLoops.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5-Lists/04ListsEx1.html" beforeDir="false" afterPath="$PROJECT_DIR$/5-Lists/04ListsEx1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5-Lists/05ListsEx2.html" beforeDir="false" afterPath="$PROJECT_DIR$/5-Lists/05ListsEx2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5-Lists/06listsTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/5-Lists/06listsTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5-Lists/js/01Lists.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5-Lists/js/02LisMeth1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5-Lists/js/02LisMeth2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5-Lists/js/03LnL.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5-Lists/js/04lex1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5-Lists/js/05lex2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5-Lists/js/06lxTest.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +71,12 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -61,7 +94,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601337422459</updated>
-      <workItem from="1601337424097" duration="1212000" />
+      <workItem from="1601337424097" duration="2544000" />
     </task>
     <task id="LOCAL-00001" summary="0.1">
       <created>1601337586345</created>
@@ -84,7 +117,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601338311396</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="0.2">
+      <created>1601338896939</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1601338896939</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -92,17 +132,18 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="0.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="0.1" />
+    <MESSAGE value="0.2" />
+    <option name="LAST_COMMIT_MESSAGE" value="0.2" />
   </component>
   <component name="WindowStateProjectService">
     <state x="378" y="154" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1601338539059">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="378" y="154" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.800@0.0.1280.800" timestamp="1601338539059" />
-    <state x="247" y="0" key="CommitChangelistDialog2" timestamp="1601338311181">
+    <state x="247" y="0" key="CommitChangelistDialog2" timestamp="1601338896704">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="247" y="0" key="CommitChangelistDialog2/0.0.1280.800@0.0.1280.800" timestamp="1601338311181" />
+    <state x="247" y="0" key="CommitChangelistDialog2/0.0.1280.800@0.0.1280.800" timestamp="1601338896704" />
     <state x="240" y="140" key="Vcs.Push.Dialog.v2" timestamp="1601338315227">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
